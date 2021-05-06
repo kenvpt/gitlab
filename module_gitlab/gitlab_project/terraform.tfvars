@@ -18,9 +18,8 @@ domain_name = "www.gitlab.kenvpt.com"
 delegation_set = "Z10047533N9ED5L3STY30"
 tags = {
    Environment = "Gitlab"
-   Department = "IT"
-   Team = "Infrastructure"
-   Created_by = "Team5"
+   Department = "AWS"
+   Created_by = "Ken_DevOps_Engr"
 
 }
 private_key_path = "~/.ssh/id_rsa"   
